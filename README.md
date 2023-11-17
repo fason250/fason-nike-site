@@ -12,7 +12,7 @@ This project is called Fason nike store it is about shoes store website and comp
 
 ## References 
 
-from developer who have a youtube channel called <b>JSMastery </b> he helped me with getting the Design and I coded the codes
+References from developer who have a youtube channel called <b>JSMastery </b> he helped me with getting the Design.
 
 ## Social medias
 ><b>Instagram : </b> @Jey_fason <br>

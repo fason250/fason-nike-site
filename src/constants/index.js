@@ -1,6 +1,8 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons"
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
-import customer3 from '../assets/images/fason.jpg'
+import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3} from "../assets/images";
+import fason from '../assets/images/fason.jpg'
+
+
 
 export const navLinks = [
     { href: "#home", linkName: "Home" },
@@ -89,7 +91,7 @@ export const reviews = [
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     },
     {
-        imgURL: customer3,
+        imgURL: fason,
         customerName: 'Jey Fason',
         rating: 4.3,
         feedback:"I found the product last couple weeks on social medias  there is no best product than this so please try it if you didn't yet"
