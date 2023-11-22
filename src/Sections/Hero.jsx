@@ -38,8 +38,8 @@ const Hero = () => {
         className="object-contain relative z-9"
         />
         <div className="flex sm:gap-6  absolute -bottom-[5%] max-sm:px-6">
-          {shoes.map((shoe)=>(
-            <div key={shoe}>
+          {shoes.map((shoe,index)=>(
+            <div key={index}>
               <ShoeCard shoesImg={shoe} changeBigShoeImage={(shoe)=>{setBigShoeImg(shoe)}} bigShoeImg={bigShoeImg}/>
             </div>
           ))}
