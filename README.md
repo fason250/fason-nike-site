@@ -18,7 +18,7 @@ References from developer who have a youtube channel called <b>JSMastery </b> he
 ><b>Instagram : </b> @Jey_fason <br>
 ><b>Email : </b> Jeyfason25@gmail.com <br>
 ><b>Phone & whatsapp : </b> +250 792330514 <br>
-><b>Github: </b> @Jeyfason250 
+><b>Github: </b> @fason250 
 
 # Responsive 
 
